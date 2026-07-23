@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+outputs/checkpoints/
+outputs/lora_adapter/
+outputs/*.log
+wandb/
+runs/
+.DS_Store
